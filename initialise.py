@@ -18,3 +18,5 @@ def answer(n):
 def pick():
     n = np.random.randint(1, 100)
     question(n)
+
+print("Hi")
